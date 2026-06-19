@@ -1,0 +1,23 @@
+body{
+    background-color:#23b316;
+}
+
+.card{
+    border-radius:10px;
+    box-shadow:0 2px 5px rgba(197, 22, 22, 0.1);
+}
+
+h1{
+    font-weight:bold;
+}body{
+    background-color:#ffffff;
+}
+
+.card{
+    border-radius:10px;
+    box-shadow:0 2px 5px rgba(0,0,0,0.1);
+}
+
+h1{
+    font-weight:bold;
+}
